@@ -1,5 +1,6 @@
 <template>
     <div class="row mb-3">
+        <label>Per Page:</lable>
         <div class="col-md-3">
             <select
                 class="form-control"
